@@ -1,0 +1,10 @@
+S:\Archivos\Escritorio\Quintanar Alvarado José Manuel\Quintanar Alvarado José Manuel\bin\Debug\Quintanar Alvarado José Manuel.exe.config
+S:\Archivos\Escritorio\Quintanar Alvarado José Manuel\Quintanar Alvarado José Manuel\bin\Debug\Quintanar Alvarado José Manuel.exe
+S:\Archivos\Escritorio\Quintanar Alvarado José Manuel\Quintanar Alvarado José Manuel\bin\Debug\Quintanar Alvarado José Manuel.pdb
+S:\Archivos\Escritorio\Quintanar Alvarado José Manuel\Quintanar Alvarado José Manuel\obj\Debug\Quintanar Alvarado José Manuel.csprojAssemblyReference.cache
+S:\Archivos\Escritorio\Quintanar Alvarado José Manuel\Quintanar Alvarado José Manuel\obj\Debug\Quintanar_Alvarado_José_Manuel.Properties.Resources.resources
+S:\Archivos\Escritorio\Quintanar Alvarado José Manuel\Quintanar Alvarado José Manuel\obj\Debug\Quintanar Alvarado José Manuel.csproj.GenerateResource.cache
+S:\Archivos\Escritorio\Quintanar Alvarado José Manuel\Quintanar Alvarado José Manuel\obj\Debug\Quintanar Alvarado José Manuel.csproj.CoreCompileInputs.cache
+S:\Archivos\Escritorio\Quintanar Alvarado José Manuel\Quintanar Alvarado José Manuel\obj\Debug\Quintanar Alvarado José Manuel.exe
+S:\Archivos\Escritorio\Quintanar Alvarado José Manuel\Quintanar Alvarado José Manuel\obj\Debug\Quintanar Alvarado José Manuel.pdb
+S:\Archivos\Escritorio\Quintanar Alvarado José Manuel\Quintanar Alvarado José Manuel\obj\Debug\Quintanar_Alvarado_José_Manuel.Ventana.resources
