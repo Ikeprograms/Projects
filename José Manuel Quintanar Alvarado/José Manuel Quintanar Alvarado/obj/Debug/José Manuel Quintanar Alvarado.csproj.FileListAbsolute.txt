@@ -1,0 +1,10 @@
+S:\Archivos\Escritorio\José Manuel Quintanar Alvarado\José Manuel Quintanar Alvarado\bin\Debug\José Manuel Quintanar Alvarado.exe.config
+S:\Archivos\Escritorio\José Manuel Quintanar Alvarado\José Manuel Quintanar Alvarado\bin\Debug\José Manuel Quintanar Alvarado.exe
+S:\Archivos\Escritorio\José Manuel Quintanar Alvarado\José Manuel Quintanar Alvarado\bin\Debug\José Manuel Quintanar Alvarado.pdb
+S:\Archivos\Escritorio\José Manuel Quintanar Alvarado\José Manuel Quintanar Alvarado\obj\Debug\José Manuel Quintanar Alvarado.csprojAssemblyReference.cache
+S:\Archivos\Escritorio\José Manuel Quintanar Alvarado\José Manuel Quintanar Alvarado\obj\Debug\José_Manuel_Quintanar_Alvarado.Form1.resources
+S:\Archivos\Escritorio\José Manuel Quintanar Alvarado\José Manuel Quintanar Alvarado\obj\Debug\José_Manuel_Quintanar_Alvarado.Properties.Resources.resources
+S:\Archivos\Escritorio\José Manuel Quintanar Alvarado\José Manuel Quintanar Alvarado\obj\Debug\José Manuel Quintanar Alvarado.csproj.GenerateResource.cache
+S:\Archivos\Escritorio\José Manuel Quintanar Alvarado\José Manuel Quintanar Alvarado\obj\Debug\José Manuel Quintanar Alvarado.csproj.CoreCompileInputs.cache
+S:\Archivos\Escritorio\José Manuel Quintanar Alvarado\José Manuel Quintanar Alvarado\obj\Debug\José Manuel Quintanar Alvarado.exe
+S:\Archivos\Escritorio\José Manuel Quintanar Alvarado\José Manuel Quintanar Alvarado\obj\Debug\José Manuel Quintanar Alvarado.pdb
