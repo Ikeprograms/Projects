@@ -1,0 +1,10 @@
+C:\Users\usuario\source\repos\Exammen2\Exammen2\obj\Debug\Exammen2.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\Exammen2\Exammen2\obj\Debug\Exammen2.Form1.resources
+C:\Users\usuario\source\repos\Exammen2\Exammen2\obj\Debug\Exammen2.Properties.Resources.resources
+C:\Users\usuario\source\repos\Exammen2\Exammen2\obj\Debug\Exammen2.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\Exammen2\Exammen2\obj\Debug\Exammen2.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Exammen2\Exammen2\bin\Debug\Exammen2.exe.config
+C:\Users\usuario\source\repos\Exammen2\Exammen2\bin\Debug\Exammen2.exe
+C:\Users\usuario\source\repos\Exammen2\Exammen2\bin\Debug\Exammen2.pdb
+C:\Users\usuario\source\repos\Exammen2\Exammen2\obj\Debug\Exammen2.exe
+C:\Users\usuario\source\repos\Exammen2\Exammen2\obj\Debug\Exammen2.pdb
